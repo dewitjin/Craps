@@ -28,12 +28,12 @@ For a clean version of the App, cd into the out folder and type:
 
 ## API Reference
 
-The header files that were included for this App are:
+The libraries that were included for this App are:
 
-#include <iostream>
-#include <string>
-#include <stdlib.h>
-#include <ctime>
+<iostream>
+<string>
+<stdlib.h>
+<ctime>
 
 ## Tests
 
