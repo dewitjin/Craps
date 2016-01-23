@@ -2,7 +2,7 @@
 
 This App was built to impress a man named Neal.  It is my version of a dice game called CRAPS.  It is built using C++ and runs directly in terminal.
 
-If Neal wins the game, he will get a password and will be directly to a locked page.  After entering the password, he will be able to see the answers to his questions.
+If Neal wins the game, he will get a password and will be directed to a locked page.  After entering the password, he will be able to see the answers to his questions.
 
 ## Code Example
 
