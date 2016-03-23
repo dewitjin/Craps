@@ -30,10 +30,10 @@ For a clean version of the App, cd into the out folder and type:
 
 The libraries that were included for this App are:
 
-<iostream>
-<string>
-<stdlib.h>
-<ctime>
+iostream
+string
+stdlib.h
+ctime
 
 ## Tests
 
