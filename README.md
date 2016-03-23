@@ -1,8 +1,8 @@
 ## Synopsis
 
-This App was built to impress a man named Neal.  It is my version of a dice game called CRAPS.  It is built using C++ and runs directly in terminal.
+This App is my version of a dice game called CRAPS.  It is built using C++ and runs directly in terminal.
 
-If Neal wins the game, he will get a password and will be directed to a locked page.  After entering the password, he will be able to see the answers to his questions.
+If you win the game, you will get a password and will be directed to a locked page.  After entering the password, you will be able to see some cool stuff.
 
 ## Code Example
 
@@ -10,7 +10,7 @@ No code example.
 
 ## Motivation
 
-I am currently learning C++ at school and decided to build something with the language to impress Neal.
+I am currently learning C++ at school and decided to build something with the language.
 
 ## Installation
 
